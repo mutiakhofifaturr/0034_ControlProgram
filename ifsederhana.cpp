@@ -23,4 +23,3 @@ int main()
     cout << "Masukkan nilai Matematika = ";
     cin >> nilMT;
 
-    
